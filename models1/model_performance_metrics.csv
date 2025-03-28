@@ -1,0 +1,4 @@
+Model,F1-Score (Class 1),Recall (Class 1),Precision (Class 1),Weighted F1-Score,Accuracy
+Random Forest,0.0,0.0,0.0,0.92,0.94
+Logistic Regression,0.25,0.8,0.14,0.83,0.76
+XGBoost,0.23,0.26,0.2,0.92,0.91
